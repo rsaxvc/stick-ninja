@@ -1,0 +1,3 @@
+[submodule "libgraphoscope"]
+	path = libgraphoscope
+	url = git@github.com:rsaxvc/libgraphoscope.git
